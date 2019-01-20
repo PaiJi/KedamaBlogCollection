@@ -22,4 +22,4 @@ Akyuu | 映雪青帖  | 「一位常在游客旁若无人的自言自语」 | [h
 Fly_Emoji | Fly_Emoji's Blog | 为她而活，为她而死。| [https://flyemoji.xyz](https://flyemoji.xyz) | ![avatar](https://s1.ax1x.com/2018/12/22/FsvdHK.jpg)
 JiPaiOrz | JiPai Store | 鸡排Store，一个存放故事的地方。| [https://www.jipai.moe/](https://www.jipai.moe/) | ![avatar](https://www.jipai.moe/sources/img/jipai_avatar.png)
 Nekotora | 哞菇神社 | 夏日、蘑菇丛林的尽头| [http://blog.flag.moe/](http://blog.flag.moe/) | ![avatar](http://blog.flag.moe/usr/themes/Azumarill/img/avatar.png)
-ExtraGhost | ExtraGhost' Blog | 一名小赤佬的自我修养地| [http://helloex.ooo/](http://helloex.ooo/) | ![avatar](http://blog.flag.moe/usr/themes/Azumarill/img/avatar.png)
+ExtraGhost | ExtraGhost' Blog | 一名小赤佬的自我修养地| [http://helloex.ooo/](http://helloex.ooo/) | ![avatar]()
