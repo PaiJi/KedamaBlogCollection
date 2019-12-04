@@ -17,7 +17,7 @@ this is a list of Kedama Minecraft player's blog address,you can view them or ad
 Author | Name | Description | Blog Link | Avatar Link(optional) | banner(optional)
 :------------: | :-------------: | :------------: | :------------: |:------------: |:------------:
 **Phoenixlzx** | **Phoenix's island** | **Phoenix's blog** | [https://blog.phoenixlzx.com/](https://blog.phoenixlzx.com/) | ![avatar](https://blog.phoenixlzx.com/static/img/avatar/avatar.jpg)
-BlingWang | 派兹的小站  | 莓办法，银不了，尽梨了 | [https://blog.blingwang.cn/](https://blog.blingwang.cn/) | ![avatar](https://blingwang.cn/meiliangxin.jpg)|![banner](https://blingwang.cn/banner.jpg)
+BlingWang | 派兹的小站  | 莓办法，银不了，尽梨了 | [https://blog.blw.moe/](https://blog.blw.moe/) | ![avatar](https://blog.blw.moe/head.png)|![banner](https://blw.moe/banner.jpg)
 Akyuu | 映雪青帖  | 「一位常在游客旁若无人的自言自语」 | [https://www.aoisnow.net/](https://www.aoisnow.net/) | ![avatar](https://www.aoisnow.net/blog/wp-content/uploads/2015/09/avatar.jpg)
 Fly_Emoji | Fly_Emoji's Blog | 为她而活，为她而死。| [https://flyemoji.xyz](https://flyemoji.xyz) | ![avatar](https://s1.ax1x.com/2018/12/22/FsvdHK.jpg)
 JiPaiOrz | JiPai Store | 鸡排Store，一个存放故事的地方。| [https://www.jipai.moe/](https://www.jipai.moe/) | ![avatar](https://www.jipai.moe/sources/img/jipai_avatar.png)
