@@ -27,4 +27,4 @@ RainEggplant | RainEggplant - 雨茄 | 「该博主很懒，没有留下描述�
 Ping_timeout | BAKYU-N!! | 「眩しさだけは、忘れなかった。」| [https://timeout.moe/](https://timeout.moe/) | ![avatar](https://timeout.moe/android-chrome-192x192.png)
 lilydjwg | 依云's Blog | Happy coding, happy living! | [https://blog.lilydjwg.me/](https://blog.lilydjwg.me/) | ![avatar](https://avatars0.githubusercontent.com/u/440661)
 BobLao | Bob's Coding Lab | Thinking will not overcome fear but action will.| [https://blog.bobguo.top/](https://blog.bobguo.top/) | ![avatar](https://blog.bobguo.top/img/%E9%9A%94%E9%9B%A8%E5%90%AC%E7%AB%B92.jpg)
-CitingNutria | 咕咕咕 | 咕咕咕 | [https://citingnutria.github.io/](https://citingnutria.github.io/) | ![avatar](https://github.com/CitingNutria/image_hosting/raw/master/head.png)
+CitingNutria | Citingnutria's blog | CT的碎碎念 | [https://citingnutria.github.io/](https://citingnutria.github.io/) | ![avatar](https://github.com/CitingNutria/image_hosting/raw/master/head.png)
