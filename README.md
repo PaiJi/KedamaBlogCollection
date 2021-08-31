@@ -28,3 +28,4 @@ Ping_timeout | BAKYU-N!! | 「眩しさだけは、忘れなかった。」| [ht
 lilydjwg | 依云's Blog | Happy coding, happy living! | [https://blog.lilydjwg.me/](https://blog.lilydjwg.me/) | ![avatar](https://avatars0.githubusercontent.com/u/440661)
 BobLao | Bob's Coding Lab | Thinking will not overcome fear but action will.| [https://blog.bobguo.top/](https://blog.bobguo.top/) | ![avatar](https://blog.bobguo.top/img/%E9%9A%94%E9%9B%A8%E5%90%AC%E7%AB%B92.jpg)
 CitingNutria | Citingnutria's blog | CT的碎碎念 | [https://citingnutria.github.io/](https://citingnutria.github.io/) | ![avatar](https://github.com/CitingNutria/image_hosting/raw/master/head.png)
+Kagurazakakano | Kano’s Blog | 喵~ | [https://kanocui.top](https://kanocui.top) | ![avatar](https://avatars3.githubusercontent.com/u/33749288?s=460&v=4)
